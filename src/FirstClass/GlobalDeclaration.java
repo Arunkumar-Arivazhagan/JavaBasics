@@ -7,6 +7,8 @@ public class GlobalDeclaration {
 
 	public static void main(String[] args) {
 		
+		int a = 10; //local declaration
+		
 		add();
 		sub();
 		mul();

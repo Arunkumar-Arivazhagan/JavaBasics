@@ -5,8 +5,8 @@ public class StudentMain {
 		
 		System.out.println("Welcome to Anna University");
 		
-		Student arun = new Student("Arun",16,60,70,90);
-		Student deepika = new Student("Deepika", 17,99,80,90); //OBJECT CREATION
+		Student arun = new Student("Swaroop", 17, 89, 89, 79);
+		Student deepika = new Student("Deepika", 18, 99, 99, 99); //OBJECT CREATION
 		
 		System.out.println(arun.name);
 		arun.seatYesOrNo();

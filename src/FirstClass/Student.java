@@ -8,7 +8,7 @@ public class Student {
 	int chem;
 	int math;
 	
-	Student(String name, int age, int phy, int chem, int math)
+	Student(String name, int age, int phy, int chem, int math) //constructor
 	{
 		this.name = name;
 		this.age = age;
