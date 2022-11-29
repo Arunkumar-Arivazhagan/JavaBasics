@@ -21,7 +21,7 @@ public class Loops {
 		int value = 1;
 		for(int i = 1; i<value;i++)
 		{
-			System.out.println(i);
+			//System.out.println(i);
 		}
 		
 		System.out.println("I think you made a mistake");
