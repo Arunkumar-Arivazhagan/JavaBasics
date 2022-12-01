@@ -41,7 +41,7 @@ public class RelationalOperator {
 	}
 	
 	static void orFunction() {
-		boolean passport = false;
+		boolean passport = true;
 		boolean driverLic = false;
 		boolean criminal = true;
 //		if(passport || driverLic)
