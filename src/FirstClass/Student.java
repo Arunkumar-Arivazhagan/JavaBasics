@@ -3,6 +3,46 @@ package FirstClass;
 public class Student {
 	
 	String name;
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public int getPhy() {
+		return phy;
+	}
+
+	public void setPhy(int phy) {
+		this.phy = phy;
+	}
+
+	public int getChem() {
+		return chem;
+	}
+
+	public void setChem(int chem) {
+		this.chem = chem;
+	}
+
+	public int getMath() {
+		return math;
+	}
+
+	public void setMath(int math) {
+		this.math = math;
+	}
+
 	int age;
 	int phy;
 	int chem;
